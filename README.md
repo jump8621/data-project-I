@@ -1,9 +1,5 @@
 # Pyres of California
 
-<p align="center">
-  <img src="Images/major_heatmap_10.png">
-</p>
-
 ## Background
 
 Our project is to evaluate and analyze California Wildfire Data based on a California Wildfire Incidents dataset between 2013 and 2019. The project will focus on factors such as resources deployed, acreage burned, structure damage, injuries, personnel involved in firefighting and related questions, as the data admits.
@@ -146,3 +142,21 @@ When examining the number of fire incidents by month, for both the number of inc
   <img src="Images/per_num.png">
 </p>
 
+### What will look like in the world map?
+
+<p align="center">
+  <img src="Images/major_heatmap_10.png">
+</p>
+
+*Note:* The red circle represents fire incidents between 2013 - 2019. The size of circle represents the acreage of burn.
+
+---
+## Contributor
+
+© [Alessandro Travaglia](https://github.com/atravaglia) : atravaglia@gmail.com
+© [Atcharaporn Puccini](https://github.com/abpuccini): b.atcharaporn@gmail.com
+© [Juliann Pezzullo](https://github.com/jump8621): jump8621@gmail.com
+© [Lee Prout](https://github.com/LeeProut): wleeprout@gmail.com
+© [Lydia Field](https://github.com/lydiapf): lydia291@gmail.com
+
+UNC Boot Camp 2020
