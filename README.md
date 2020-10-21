@@ -44,7 +44,7 @@ When examining the number of fire incidents by month, for both the number of inc
 
 ![firepattern2](Images/PatternbyMonth_arces.png)
 
-### California Fire Summary By Year and Month By County
+### California Fire Summary By County
 
 ***Which California counties had the highest number of fires? Are there any counties that were untouched by wildfires?***
 
@@ -58,14 +58,46 @@ When examining the number of fire incidents by month, for both the number of inc
 
 **Major Top 10 Counties** | **Major Bottom 10 Counties**
 --------------------- | ---------------------
-![top_county_no](Images/bar_top_ca_mj_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_mj_fire.png)
-
-
+![top_county_no](Images/bar_top_ca_mj_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_area all_fire.png)
+---
 ***Which county ranked the highest in terms of area burned? Which county ranked the lowest in area burned?***
 
 - Out of all the counties that had at least one fire incident reported between 2013-2019, Siskiyou county has the highest area burned: 367,914 acres. Whereas, San Mateo county has the lowest area burned at only 153 acres.
 
-- A total of 22 counties experienced 100,000 acres or more of acres burned, corresponding to 40 percent of the total counties. Future investigations may include exploring the relationship between acreage burned by county and county size. The county size was not available in the current dataset and would need to be imported from other sources.
-
+**Top 10 Counties: Area** | **Bottom 10 Counties: Area**
 --------------------- | ---------------------
-![area_top_county](Images/bar_top_ca_all_fire.png) | ![area_bottom_county](Images/bar_bottom_ca_area all_fire.png)
+![top_county_no](Images/bar_top_ca_area_all_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_area all_fire.png)
+
+- 40 percent of all counties in California (22 counties) have lost at least 100,000 acres due to fires between 2013-2019. 
+
+![100acres](Images/all_area_scatter_showall.png)
+---
+
+### California Fire Factor (Duration of Fire)
+
+***What is the correlation between the time a fire incident has burned versus the size of the area burned?***
+
+- The correlation between the size of the area burned versus the duration of time the fire burned is 0.0576, which implies that there is no relation between these factors. 
+
+![time_area_corr](Images/day_area.png)
+
+- The correlation between the size of the area burned versus the frequency in each county is 0.413, which implies that there is moderate relation between fire frequency and burned area.
+
+![times_area_corr](Images/area_num.png)
+
+### California resource deploy
+
+***How do counties compare when measuring the severity of wildfire events, loss of life, and fire-fighting equipment deployed?***
+
+- As seen in the figure below, Butte County had considerability higher loss of life due to wildfires than any other counties in this dataset. 
+
+- Additional research attributed Butte County’s staggering loss of life to the 2018 Camp Fire. To date, the Camp Fire remains the deadliest and most destructive wildfire in California’s history. 
+
+- This discovery could also be seen in the data that showed a spike in the equipment used in 2018.
+
+![Mj_fat_inj](Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png)
+
+- When comparing equipment deployed for fighting wildfires from 2013-2019, Butte County and San Diego County had similar figures, despite Butte County suffering a much higher loss of life. 
+
+![Mj_resources_deployed](Images/Bar_Chart_Equipment_Top_Five_Counties.png)
+
