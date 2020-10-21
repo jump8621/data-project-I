@@ -6,7 +6,7 @@ Our project is to evaluate and analyze California Wildfire Data based on a Calif
 
 ## Assumption
 
-- [California wildfire incidents from 2013 to 2019]('Resources/California_Fire_Incidents_original.csv') and [list of California county]('Resources/ca_county_list.csv') will be applied in order to conduct the analysis.
+- [California wildfire incidents from 2013 to 2019]('Resources/California_Fire_Incidents_original.csv') from Kaggle and [list of California county]('Resources/ca_county_list.csv') from CA data Gov. will be applied in order to conduct the analysis.
 - The analysis will be divided into 2 main parts, all fire incidents and major fire incidents (based on dataset).
 - In each main part, the analysis will focus on resources and the damage of fire by County. 
 - Personnel invloved will represent all the resources in this analysis.
