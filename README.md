@@ -81,6 +81,8 @@ When examining the number of fire incidents by month, for both the number of inc
 - The correlation between the size of the area burned versus the duration of time the fire burned is 0.0576, which implies that there is no relation between these factors. 
 
 <p align="center">
+  <img src="Images/day_area.png">
+</p>
 ![time_area_corr](Images/day_area.png)
 
 - The correlation between the size of the area burned versus the frequency in each county is 0.413, which implies that there is moderate relation between fire frequency and burned area.
