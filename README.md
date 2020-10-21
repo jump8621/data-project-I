@@ -153,14 +153,10 @@ When examining the number of fire incidents by month, for both the number of inc
 ---
 ## Contributor
 
-© [Alessandro Travaglia](https://github.com/atravaglia) : atravaglia@gmail.com
-
-© [Atcharaporn Puccini](https://github.com/abpuccini): b.atcharaporn@gmail.com
-
-© [Juliann Pezzullo](https://github.com/jump8621): jump8621@gmail.com
-
-© [Lee Prout](https://github.com/LeeProut): wleeprout@gmail.com
-
-© [Lydia Field](https://github.com/lydiapf): lydia291@gmail.com
+[Alessandro Travaglia](https://github.com/atravaglia) : atravaglia@gmail.com \n
+[Atcharaporn Puccini](https://github.com/abpuccini): b.atcharaporn@gmail.com \n
+[Juliann Pezzullo](https://github.com/jump8621): jump8621@gmail.com \n
+[Lee Prout](https://github.com/LeeProut): wleeprout@gmail.com \n
+[Lydia Field](https://github.com/lydiapf): lydia291@gmail.com
 
 UNC Boot Camp 2020
