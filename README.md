@@ -21,7 +21,7 @@ Our project is to evaluate and analyze California Wildfire Data based on a Calif
 ## Data Limitation
 
 - Data incompletion which will be excluded might cause an inaccurate conclusion.
-- The definition of major fire incident in the dataset which indicates by true/false differs from California Fire Department which states that major fire incident is more than 10 arces. The group decision was using the information based on the dataset because we counldn't find the evidence to support if the file is uncredible.
+- The definition of major fire incident in the dataset which indicates by true/false (major/minor) differs from California Fire Department which states that major fire incident is more than 10 arces. The group decision was using the information based on the dataset because we counldn't find the evidence to support if the file is uncredible. [California Department of Forestry and Fire Protection (CAL FIRE). “Incidents Overview.” CAL FIRE, 2020, www.fire.ca.gov/incidents/.]
 - When applying correlation calculation method to the entire dataset, it shows that the dataset have a strong correlation among variabilities. However, the amount of data that generate the strong correlation is dramatically low.     
 
 ## Analysis
