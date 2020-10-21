@@ -58,7 +58,7 @@ When examining the number of fire incidents by month, for both the number of inc
 
 **Major Top 10 Counties** | **Major Bottom 10 Counties**
 --------------------- | ---------------------
-![mj_top_county_no](Images/bar_top_ca_mj_fire.png) | ![mj_bottom_county_no](Images/bar_bottom_ca_mj_fire.png)
+![mj_top_county_no](Images/bar_top_ca_mj_fire.png) | ![mj_bottom_county_no](Images/bar_bottom_mj_fire.png)
 
 ---
 ***Which county ranked the highest in terms of area burned? Which county ranked the lowest in area burned?***
