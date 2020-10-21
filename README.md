@@ -83,11 +83,12 @@ When examining the number of fire incidents by month, for both the number of inc
 <p align="center">
   <img src="Images/day_area.png">
 </p>
-![time_area_corr](Images/day_area.png)
 
 - The correlation between the size of the area burned versus the frequency in each county is 0.413, which implies that there is moderate relation between fire frequency and burned area.
 
-![times_area_corr](Images/area_num.png)
+<p align="center">
+  <img src="Images/area_num.png">
+</p>
 
 ### California resource deploy
 
@@ -99,9 +100,14 @@ When examining the number of fire incidents by month, for both the number of inc
 
 - This discovery could also be seen in the data that showed a spike in the equipment used in 2018.
 
-    ![Mj_fat_inj](Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png)
+<p align="center">
+  <img src="Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png">
+</p>
 
 - When comparing equipment deployed for fighting wildfires from 2013-2019, Butte County and San Diego County had similar figures, despite Butte County suffering a much higher loss of life. 
 
-    ![Mj_resources_deployed](Images/Bar_Chart_Equipment_Top_Five_Counties.png)
+<p align="center">
+  <img src="Images/Bar_Chart_Equipment_Top_Five_Counties.png">
+</p>
+
 
