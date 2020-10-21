@@ -1,5 +1,9 @@
 # Pyres of California
 
+<p align="center">
+  <img src="Images/major_heatmap_10.png">
+</p>
+
 ## Background
 
 Our project is to evaluate and analyze California Wildfire Data based on a California Wildfire Incidents dataset between 2013 and 2019. The project will focus on factors such as resources deployed, acreage burned, structure damage, injuries, personnel involved in firefighting and related questions, as the data admits.
@@ -117,7 +121,13 @@ When examining the number of fire incidents by month, for both the number of inc
 
 - A Pearson correlation of 0.7 was observed between injuries and crews, suggesting a relatively strong trend between these two parameters. As shown in the figure below, the trendline equation reflects the estimated number of injuries that may occur based on the size of the crew employed. This correlation may be helpful in forecasting future injuries based on the number of crews involved and deploy sufficient resources (hospitals, etc.). A similar result was obtained between “Injuries” and “Personnel Involved”.
 
-![crew_inj](Images/crews_inj.png) | ![per_inj](Images/per_inj_ales.png)
+<p align="center">
+  <img src="Images/crews_inj.png">
+</p>
+
+<p align="center">
+  <img src="Images/per_inj_ales.png">
+</p>
 
 ---
 ***What is the correlation between the duration of fire and the number of personnel involved in fighting wildfires?***
@@ -126,10 +136,13 @@ When examining the number of fire incidents by month, for both the number of inc
 
 *Correlation between Personnel Involved and Air Tankers, Crews, Dozers, Engines, Helicopters, Water Tender are close to 1 which means there is a strong relation among those variable. Therefore, the study will use Personnel Involved represents all others equipment to find the relation between number of fire incidents and resources.*
 
-![per_corr](Images/corr_per.png)
+<p align="center">
+  <img src="Images/corr_per.png">
+</p>
 
 - The correlation between personnel involved versus the duration of time the fire burned is 0.71, which implies that there is a strong relation between these factors. In other words, the higher number of fires requires more resources to prevent the larger fire damage.
 
 <p align="center">
   <img src="Images/per_num.png">
 </p>
+
