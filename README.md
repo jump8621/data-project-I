@@ -174,7 +174,7 @@ When examining the number of fire incidents by month, for both the number of inc
 **Counties that have zero fire incident**
 
 <p align="center">
-  <img src="Images/minor_fire_map.png.png">
+  <img src="Images/minor_fire_map.png">
 </p>
 
 ---
