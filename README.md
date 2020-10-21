@@ -117,9 +117,10 @@ When examining the number of fire incidents by month, for both the number of inc
 ***How are fire-fighting resources and personnel dispatched to fire incidents over the period between 2013-2019 and is there a difference between major and minor incidents?***
 
 - Two different measures were used to study resource allocation by year: 
-* 1) How many individual major fire incidents per year had resources allocated to combat them?
-* 2) How many resources in total were dispatched to fight major incident fires per year? 
-* In the first figure below, 2015 had the highest number of major incident fires that had resources dispatched to fight the fires while 2018 had the lowest number. However, in the second figure below, 2018 had the highest total usage of fire-fighting resources. This suggests that one or a few major incident fires in 2018 received far more resources than all previous fires from the 2013-2019 dataset.
+1) How many individual major fire incidents per year had resources allocated to combat them?
+2) How many resources in total were dispatched to fight major incident fires per year? 
+
+- In the first figure below, 2015 had the highest number of major incident fires that had resources dispatched to fight the fires while 2018 had the lowest number. However, in the second figure below, 2018 had the highest total usage of fire-fighting resources. This suggests that one or a few major incident fires in 2018 received far more resources than all previous fires from the 2013-2019 dataset.
 
 - There is a noticeable difference in how all fire-fighting resources were allocated to fight fires from 2013-2018 with a shift occurring in 2019. Previously, fire-fighting equipment and personnel were only sent to major fire incidents, but beginning in 2019, resources and personnel were also sent to minor fires.
 
