@@ -91,7 +91,7 @@ When examining the number of fire incidents by month, for both the number of inc
 </p>
 
 ---
-### California resource deploy
+### California resources deployed
 
 ***How do counties compare when measuring the severity of wildfire events, loss of life, and fire-fighting equipment deployed?***
 
@@ -126,7 +126,7 @@ When examining the number of fire incidents by month, for both the number of inc
 </p>
 
 ---
-***What is the correlation between the duration of fire and the number of personnel involved in fighting wildfires?***
+***What is the correlation between the number of fire incidents and the number of personnel involved in fighting wildfires?***
 
 *Assumption:*
 
@@ -136,7 +136,7 @@ When examining the number of fire incidents by month, for both the number of inc
   <img src="Images/corr_per.png">
 </p>
 
-- The correlation between personnel involved versus the duration of time the fire burned is 0.71, which implies that there is a strong relation between these factors. In other words, the higher number of fires requires more resources to prevent the larger fire damage.
+- The correlation between personnel involved versus the number of fire incidents the fire burned is 0.71, which implies that there is a strong relation between these factors. In other words, the higher number of fires requires more resources to prevent the larger fire damage.
 
 <p align="center">
   <img src="Images/per_num.png">
@@ -154,9 +154,13 @@ When examining the number of fire incidents by month, for both the number of inc
 ## Contributor
 
 © [Alessandro Travaglia](https://github.com/atravaglia) : atravaglia@gmail.com
+
 © [Atcharaporn Puccini](https://github.com/abpuccini): b.atcharaporn@gmail.com
+
 © [Juliann Pezzullo](https://github.com/jump8621): jump8621@gmail.com
+
 © [Lee Prout](https://github.com/LeeProut): wleeprout@gmail.com
+
 © [Lydia Field](https://github.com/lydiapf): lydia291@gmail.com
 
 UNC Boot Camp 2020
