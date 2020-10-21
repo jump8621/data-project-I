@@ -117,8 +117,6 @@ When examining the number of fire incidents by month, for both the number of inc
 
 - A Pearson correlation of 0.7 was observed between injuries and crews, suggesting a relatively strong trend between these two parameters. As shown in the figure below, the trendline equation reflects the estimated number of injuries that may occur based on the size of the crew employed. This correlation may be helpful in forecasting future injuries based on the number of crews involved and deploy sufficient resources (hospitals, etc.). A similar result was obtained between “Injuries” and “Personnel Involved”.
 
- | 
---------------------- | ---------------------
 ![crew_inj](Images/crews_inj.png) | ![per_inj](Images/per_inj_ales.png)
 
 ---
