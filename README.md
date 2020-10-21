@@ -55,7 +55,7 @@ When examining the number of fire incidents by month, for both the number of inc
 --------------------- | ---------------------
 ![top_county_no](Images/bar_top_ca_all_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_all_fire.png)
 
-- When studying only major fire incidents, another small county, Alpine County, joins the two counties mentioned above as counties that had no major fires between 2013 and 2019.
+- When studying only major fire incidents, the total number of counties without fire incidents jumps to 9.
 
 **Major Top 10 Counties** | **Major Bottom 10 Counties**
 --------------------- | ---------------------
@@ -176,7 +176,7 @@ When examining the number of fire incidents by month, for both the number of inc
 
 *Note:* The red circle represents fire incidents between 2013 - 2019. The size of circle represents the acreage of burn.
 
-**Counties that have zero fire incident**
+**Counties that have zero acreage burned**
 
 <p align="center">
   <img src="Images/minor_fire_map.png">
