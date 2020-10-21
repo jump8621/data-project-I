@@ -29,6 +29,10 @@ Our project is to evaluate and analyze California Wildfire Data based on a Calif
 
 Overall statistics performed for the overall data set were calculated for various critical parameters, including acres burned, injuries, equipment used, personnel involved, and structures damaged and destroyed, etc. As presented in the table, there is a wide range of values for each parameter, as reflected by the differential variance and standard deviation. Also, the histogram graph shows that the dataset is a random distribution.
 
-**Statistical Table** | **Histogram Graph**
---------------------- | ---------------------
-![SumTable]('Images/table_summary.png) | ![HistGraph]('Images/hist_data_plot.png)
+**Statistical Table** 
+
+![SumTable]('Images/table_summary.png)
+
+**Histogram Graph**
+
+ | ![HistGraph]('Images/hist_data_plot.png)
