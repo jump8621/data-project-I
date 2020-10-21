@@ -90,6 +90,7 @@ When examining the number of fire incidents by month, for both the number of inc
   <img src="Images/area_num.png">
 </p>
 
+---
 ### California resource deploy
 
 ***How do counties compare when measuring the severity of wildfire events, loss of life, and fire-fighting equipment deployed?***
@@ -104,10 +105,33 @@ When examining the number of fire incidents by month, for both the number of inc
   <img src="Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png">
 </p>
 
+---
 - When comparing equipment deployed for fighting wildfires from 2013-2019, Butte County and San Diego County had similar figures, despite Butte County suffering a much higher loss of life. 
 
 <p align="center">
   <img src="Images/Bar_Chart_Equipment_Top_Five_Counties.png">
 </p>
 
+---
+***What is the correlation between the number of injuries reported and the number of crews involved in fighting wildfires?***
 
+- A Pearson correlation of 0.7 was observed between injuries and crews, suggesting a relatively strong trend between these two parameters. As shown in the figure below, the trendline equation reflects the estimated number of injuries that may occur based on the size of the crew employed. This correlation may be helpful in forecasting future injuries based on the number of crews involved and deploy sufficient resources (hospitals, etc.). A similar result was obtained between “Injuries” and “Personnel Involved”.
+
+ | 
+--------------------- | ---------------------
+![crew_inj](Images/crews_inj.png) | ![per_inj](Images/per_inj_ales.png)
+
+---
+***What is the correlation between the duration of fire and the number of personnel involved in fighting wildfires?***
+
+*Assumption:*
+
+*Correlation between Personnel Involved and Air Tankers, Crews, Dozers, Engines, Helicopters, Water Tender are close to 1 which means there is a strong relation among those variable. Therefore, the study will use Personnel Involved represents all others equipment to find the relation between number of fire incidents and resources.*
+
+![per_corr](Images/corr_per.png)
+
+- The correlation between personnel involved versus the duration of time the fire burned is 0.71, which implies that there is a strong relation between these factors. In other words, the higher number of fires requires more resources to prevent the larger fire damage.
+
+<p align="center">
+  <img src="Images/per_num.png">
+</p>
