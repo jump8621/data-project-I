@@ -36,7 +36,7 @@ Overall statistics performed for the overall data set were calculated for variou
 
 ### California Fire Summary By Year and Month
 
-*Are there any trends in the time of year that fires are most active? Which year was the most active?*
+***Are there any trends in the time of year that fires are most active? Which year was the most active?***
 
 When examining the number of fire incidents by month, for both the number of incidents and acres burned, there’s an increase for the month of July, across years 2013-2019. The year 2017 had the greatest number of fires, 438 times. The year 2018 had the greatest amount of area burned, 1,549,401 acres.
 
@@ -46,7 +46,7 @@ When examining the number of fire incidents by month, for both the number of inc
 
 ### California Fire Summary By Year and Month By County
 
-*Which California counties had the highest number of fires? Are there any counties that were untouched by wildfires?*
+***Which California counties had the highest number of fires? Are there any counties that were untouched by wildfires?***
 
 - Out of all 58 counties in California, Riverside County had the highest number of fire incidents: 146 times. Whereas, San Francisco County and Imperial County both had zero fire incidents between 2013-2019.
 
@@ -61,11 +61,11 @@ When examining the number of fire incidents by month, for both the number of inc
 ![top_county_no](Images/bar_top_ca_mj_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_mj_fire.png)
 
 
-*Which county ranked the highest in terms of area burned? Which county ranked the lowest in area burned?*
+***Which county ranked the highest in terms of area burned? Which county ranked the lowest in area burned?***
 
 - Out of all the counties that had at least one fire incident reported between 2013-2019, Siskiyou county has the highest area burned: 367,914 acres. Whereas, San Mateo county has the lowest area burned at only 153 acres.
 
 - A total of 22 counties experienced 100,000 acres or more of acres burned, corresponding to 40 percent of the total counties. Future investigations may include exploring the relationship between acreage burned by county and county size. The county size was not available in the current dataset and would need to be imported from other sources.
 
-
+--------------------- | ---------------------
 ![area_top_county](Images/bar_top_ca_all_fire.png) | ![area_bottom_county](Images/bar_bottom_ca_area all_fire.png)
