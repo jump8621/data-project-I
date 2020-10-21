@@ -131,6 +131,10 @@ When examining the number of fire incidents by month, for both the number of inc
   <img src="Images/no_resources_fire.png">
 </p>
 
+<p align="center">
+  <img src="Images/major_minor.png">
+</p>
+
 ---
 ***What is the correlation between the number of injuries reported and the number of crews involved in fighting wildfires?***
 
