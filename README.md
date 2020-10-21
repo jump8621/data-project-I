@@ -32,3 +32,25 @@ Overall statistics performed for the overall data set were calculated for variou
 **Statistical Table** | **Histogram Graph**
 --------------------- | ---------------------
 ![SumTable](Images/table_summary.png) | ![HistGraph](Images/hist_data_plot.png)
+
+
+### California Fire Summary
+
+**By Year and Month**
+
+***Are there any trends in the time of year that fires are most active? Which year was the most active?***
+
+When examining the number of fire incidents by month, for both the number of incidents and acres burned, there’s an increase for the month of July, across years 2013-2019. The year 2017 had the greatest number of fires, 438 times. The year 2018 had the greatest amount of area burned, 1,549,401 acres.
+
+![firepattern1](Images/PatternbyMonth.png)
+
+![firepattern2](Images/PatternbyMonth_arces.png)
+
+**By County**
+
+***Which California counties had the highest number of fires? Are there any counties that were untouched by wildfires?***
+
+- Out of all 58 counties in California, Riverside County had the highest number of fire incidents: 146 times. Whereas, San Francisco County and Imperial County both had zero fire incidents between 2013-2019.
+
+- When studying only major fire incidents, another small county, Alpine County, joins the two counties mentioned above as counties that had no major fires between 2013 and 2019.
+
