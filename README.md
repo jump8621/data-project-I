@@ -58,7 +58,8 @@ When examining the number of fire incidents by month, for both the number of inc
 
 **Major Top 10 Counties** | **Major Bottom 10 Counties**
 --------------------- | ---------------------
-![top_county_no](Images/bar_top_ca_mj_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_area all_fire.png)
+![mj_top_county_no](Images/bar_top_ca_mj_fire.png) | ![mj_bottom_county_no](Images/bar_bottom_ca_area all_fire.png)
+
 ---
 ***Which county ranked the highest in terms of area burned? Which county ranked the lowest in area burned?***
 
@@ -71,8 +72,8 @@ When examining the number of fire incidents by month, for both the number of inc
 - 40 percent of all counties in California (22 counties) have lost at least 100,000 acres due to fires between 2013-2019. 
 
 ![100acres](Images/all_area_scatter_showall.png)
----
 
+---
 ### California Fire Factor (Duration of Fire)
 
 ***What is the correlation between the time a fire incident has burned versus the size of the area burned?***
@@ -95,9 +96,9 @@ When examining the number of fire incidents by month, for both the number of inc
 
 - This discovery could also be seen in the data that showed a spike in the equipment used in 2018.
 
-![Mj_fat_inj](Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png)
+    ![Mj_fat_inj](Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png)
 
 - When comparing equipment deployed for fighting wildfires from 2013-2019, Butte County and San Diego County had similar figures, despite Butte County suffering a much higher loss of life. 
 
-![Mj_resources_deployed](Images/Bar_Chart_Equipment_Top_Five_Counties.png)
+    ![Mj_resources_deployed](Images/Bar_Chart_Equipment_Top_Five_Counties.png)
 
