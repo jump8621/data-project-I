@@ -82,13 +82,13 @@ When examining the number of fire incidents by month, for both the number of inc
 - The correlation between the size of the area burned versus the duration of time the fire burned is 0.0576, which implies that there is no relation between these factors. 
 
 <p align="center">
-  <img src="Images/day_area.png">
+  <img src="Main_Images/day_area.png">
 </p>
 
 - The correlation between the size of the area burned versus the frequency in each county is 0.413, which implies that there is moderate relation between fire frequency and burned area.
 
 <p align="center">
-  <img src="Images/area_num.png">
+  <img src="Main_Images/area_num.png">
 </p>
 
 ---
@@ -103,14 +103,14 @@ When examining the number of fire incidents by month, for both the number of inc
 - This discovery could also be seen in the data that showed a spike in the equipment used in 2018.
 
 <p align="center">
-  <img src="Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png">
+  <img src="Main_Images/Bar_Chart_County_Fire_Count_Injuries_Fatalities.png">
 </p>
 
 ---
 - When comparing equipment deployed for fighting wildfires from 2013-2019, Butte County and San Diego County had similar figures, despite Butte County suffering a much higher loss of life. 
 
 <p align="center">
-  <img src="Images/Bar_Chart_Equipment_Top_Five_Counties.png">
+  <img src="Main_Images/Bar_Chart_Equipment_Top_Five_Counties.png">
 </p>
 
 ---
@@ -125,15 +125,15 @@ When examining the number of fire incidents by month, for both the number of inc
 - There is a noticeable difference in how all fire-fighting resources were allocated to fight fires from 2013-2018 with a shift occurring in 2019. Previously, fire-fighting equipment and personnel were only sent to major fire incidents, but beginning in 2019, resources and personnel were also sent to minor fires.
 
 <p align="center">
-  <img src="Images/mj_resources_no_fire.png">
+  <img src="Main_Images/mj_resources_no_fire.png">
 </p>
 
 <p align="center">
-  <img src="Images/no_resources_fire.png">
+  <img src="Main_Images/no_resources_fire.png">
 </p>
 
 <p align="center">
-  <img src="Images/major_minor.png">
+  <img src="Main_Images/major_minor.png">
 </p>
 
 ---
@@ -142,11 +142,11 @@ When examining the number of fire incidents by month, for both the number of inc
 - A Pearson correlation of 0.7 was observed between injuries and crews, suggesting a relatively strong trend between these two parameters. As shown in the figure below, the trendline equation reflects the estimated number of injuries that may occur based on the size of the crew employed. This correlation may be helpful in forecasting future injuries based on the number of crews involved and deploy sufficient resources (hospitals, etc.). A similar result was obtained between “Injuries” and “Personnel Involved”.
 
 <p align="center">
-  <img src="Images/crews_inj.png">
+  <img src="Main_Images/crews_inj.png">
 </p>
 
 <p align="center">
-  <img src="Images/per_inj_ales.png">
+  <img src="Main_Images/per_inj_ales.png">
 </p>
 
 ---
@@ -157,13 +157,13 @@ When examining the number of fire incidents by month, for both the number of inc
 *Correlation between Personnel Involved and Air Tankers, Crews, Dozers, Engines, Helicopters, Water Tender are close to 1 which means there is a strong relation among those variable. Therefore, the study will use Personnel Involved represents all others equipment to find the relation between number of fire incidents and resources.*
 
 <p align="center">
-  <img src="Images/corr_per.png">
+  <img src="Main_Images/corr_per.png">
 </p>
 
 - The correlation between personnel involved versus the number of fire incidents the fire burned is 0.71, which implies that there is a strong relation between these factors. In other words, the higher number of fires requires more resources to prevent the larger fire damage.
 
 <p align="center">
-  <img src="Images/per_num.png">
+  <img src="Main_Images/per_num.png">
 </p>
 
 ### What will look like in the world map?
@@ -171,7 +171,7 @@ When examining the number of fire incidents by month, for both the number of inc
 **All California Fire Incident**
 
 <p align="center">
-  <img src="Images/major_heatmap_10.png">
+  <img src="Main_Images/major_heatmap_10.png">
 </p>
 
 *Note:* The red circle represents fire incidents between 2013 - 2019. The size of circle represents the acreage of burn.
@@ -179,7 +179,7 @@ When examining the number of fire incidents by month, for both the number of inc
 **Counties that have zero acreage burned**
 
 <p align="center">
-  <img src="Images/minor_fire_map.png">
+  <img src="Main_Images/minor_fire_map.png">
 </p>
 
 ---
