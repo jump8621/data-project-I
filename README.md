@@ -32,7 +32,7 @@ Overall statistics performed for the overall data set were calculated for variou
 
 **Statistical Table** | **Histogram Graph**
 --------------------- | ---------------------
-![SumTable](Images/table_summary.png) | ![HistGraph](Images/hist_data_plot.png)
+![SumTable](Main_Images/table_summary.png) | ![HistGraph](Main_Images/hist_data_plot.png)
 
 
 ### California Fire Summary By Year and Month
@@ -41,9 +41,9 @@ Overall statistics performed for the overall data set were calculated for variou
 
 When examining the number of fire incidents by month, for both the number of incidents and acres burned, there’s an increase for the month of July, across years 2013-2019. The year 2017 had the greatest number of fires, 438 times. The year 2018 had the greatest amount of area burned, 1,549,401 acres.
 
-![firepattern1](Images/PatternbyMonth.png)
+![firepattern1](Main_Images/PatternbyMonth.png)
 
-![firepattern2](Images/PatternbyMonth_arces.png)
+![firepattern2](Main_Images/PatternbyMonth_arces.png)
 
 ### California Fire Summary By County
 
@@ -53,13 +53,13 @@ When examining the number of fire incidents by month, for both the number of inc
 
 **Top 10 Counties** | **Bottom 10 Counties**
 --------------------- | ---------------------
-![top_county_no](Images/bar_top_ca_all_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_all_fire.png)
+![top_county_no](Main_Images/bar_top_ca_all_fire.png) | ![bottom_county_no](Main_Images/bar_bottom_ca_all_fire.png)
 
 - When studying only major fire incidents, the total number of counties without fire incidents jumps to 9.
 
 **Major Top 10 Counties** | **Major Bottom 10 Counties**
 --------------------- | ---------------------
-![mj_top_county_no](Images/bar_top_ca_mj_fire.png) | ![mj_bottom_county_no](Images/bar_bottom_mj_fire.png)
+![mj_top_county_no](Main_Images/bar_top_ca_mj_fire.png) | ![mj_bottom_county_no](Main_Images/bar_bottom_mj_fire.png)
 
 ---
 ***Which county ranked the highest in terms of area burned? Which county ranked the lowest in area burned?***
@@ -68,11 +68,11 @@ When examining the number of fire incidents by month, for both the number of inc
 
 **Top 10 Counties: Area** | **Bottom 10 Counties: Area**
 --------------------- | ---------------------
-![top_county_no](Images/bar_top_ca_area_all_fire.png) | ![bottom_county_no](Images/bar_bottom_ca_area_all_fire.png)
+![top_county_no](Main_Images/bar_top_ca_area_all_fire.png) | ![bottom_county_no](Main_Images/bar_bottom_ca_area_all_fire.png)
 
 - 40 percent of all counties in California (22 counties) have lost at least 100,000 acres due to fires between 2013-2019. 
 
-![100acres](Images/all_area_scatter_showall.png)
+![100acres](Main_Images/all_area_scatter_showall.png)
 
 ---
 ### California Fire Factor (Duration of Fire)
