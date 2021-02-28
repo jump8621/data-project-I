@@ -1,7 +1,4 @@
 
-# project-I
-=======
-
 # Pyres of California
 
 ## Background
